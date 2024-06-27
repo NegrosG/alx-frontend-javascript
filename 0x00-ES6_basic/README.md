@@ -1,1 +1,1 @@
-# The Project Repository of ES6_Basic on javascript for specialization
+# The Project directory of ES6_Basic on javascript for frontend
